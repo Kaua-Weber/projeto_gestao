@@ -1,0 +1,25 @@
+{ 
+  "compilerOptions": { 
+     
+    "target": "es2022",                                  
+    "module": "node16",                               
+    "rootDir": "./src/",                                   
+    "moduleResolution": "node16",                      
+    "outDir": "./dist/",                                    
+    "noEmitOnError": true,                             
+    "esModuleInterop": true,                              
+    "forceConsistentCasingInFileNames": true,          
+    "strict": true,                                       
+    "noImplicitAny": true,                             
+    "strictNullChecks": true,                         
+    "strictFunctionTypes": true,                       
+    "strictBindCallApply": true,                       
+    "strictPropertyInitialization": false,            
+    "noImplicitThis": true,                            
+    "noImplicitReturns": true,                         
+    "noFallthroughCasesInSwitch": true,                
+    "skipLibCheck": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true                                
+  } 
+}
